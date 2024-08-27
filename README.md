@@ -72,10 +72,3 @@ We welcome contributions to make the Blog Website even better! To contribute:
 3. **Commit Your Changes**: Add meaningful messages to describe your updates.
 4. **Push to Your Fork**: Share your changes by pushing to your forked repository.
 5. **Open a Pull Request**: Submit your branch for review and potential merge.
-
-## 📜 License
-
-This project is licensed under the MIT License. For more details, check the [LICENSE](LICENSE) file.
-
-
-
